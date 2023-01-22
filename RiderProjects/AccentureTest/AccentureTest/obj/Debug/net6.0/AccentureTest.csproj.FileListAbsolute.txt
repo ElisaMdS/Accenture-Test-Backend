@@ -1,0 +1,15 @@
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\bin\Debug\net6.0\AccentureTest.exe
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\bin\Debug\net6.0\AccentureTest.deps.json
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\bin\Debug\net6.0\AccentureTest.runtimeconfig.json
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\bin\Debug\net6.0\AccentureTest.dll
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\bin\Debug\net6.0\AccentureTest.pdb
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\AccentureTest.csproj.AssemblyReference.cache
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\AccentureTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\AccentureTest.AssemblyInfoInputs.cache
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\AccentureTest.AssemblyInfo.cs
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\AccentureTest.csproj.CoreCompileInputs.cache
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\AccentureTest.dll
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\refint\AccentureTest.dll
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\AccentureTest.pdb
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\AccentureTest.genruntimeconfig.cache
+C:\Users\elisa\RiderProjects\AccentureTest\AccentureTest\obj\Debug\net6.0\ref\AccentureTest.dll
